@@ -1,2 +1,0 @@
-# myyujd 
-# start git
